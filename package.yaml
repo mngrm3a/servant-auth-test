@@ -31,3 +31,4 @@ executables:
     - servant-auth-server
     - warp
     - aeson
+    - mtl
