@@ -30,3 +30,6 @@ Temporary Items
 .ghcid
 .stack-work/
 servant-auth-test.cabal
+
+# curl
+cookiejar
