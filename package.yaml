@@ -15,6 +15,9 @@ copyright:           "2019 Daniel Priebe"
 # common to point users to the README.md file.
 description:         Please see the README on GitHub at <https://github.com/mngrm3a/servant-auth-test#readme>
 
+extra-source-files:
+- README.md
+
 dependencies:
 - base >= 4.7 && < 5
 
